@@ -3,7 +3,8 @@ void main() {
   const array2 = [1, 2, 3];
 
   array1[0] = 10;
-  // versi error array2[0] = 10;
+  // versi error
+  //array2[0] = 10;
   print(array1);
   print(array2);
 }

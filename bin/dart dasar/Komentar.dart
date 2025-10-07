@@ -1,4 +1,7 @@
 void main() {
-  //Ini komentar
-  /* Ini Juga Komentar */
+  //Ini komentar satu baris
+  /* Ini Juga
+  Komentar namun lebih
+  dari satu baris
+  */
 }
