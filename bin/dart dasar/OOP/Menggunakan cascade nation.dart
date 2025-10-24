@@ -5,10 +5,10 @@ class User {
 }
 
 void main() {
-  var user = User();
-  user.username = "akbar123";
-  user.name = "Akbar Ramadhan";
-  user.email = "blbla@gmail.com";
+  var user = User()
+    ..username = "akbar123"
+    ..name = "Akbar Ramadhan"
+    ..email = "akbarramadhanblabla@gmail.com";
   print(user.username);
   print(user.name);
   print(user.email);
